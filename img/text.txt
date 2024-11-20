@@ -1,13 +1,26 @@
+¡Hola! Soy Cristian Arévalo, ingeniero de sistemas y desarrollador fullstack con más de 3 años de experiencia en el desarrollo de software.
+
+Me apasiona crear soluciones eficientes y escalables que generen un impacto real en los usuarios y las empresas. A lo largo de mi carrera, he trabajado en proyectos que abarcan tanto el frontend como el backend, utilizando tecnologías modernas para construir aplicaciones robustas, seguras y de alto rendimiento.
+
+Me motiva enfrentar desafíos complejos y estar al tanto de las últimas tendencias tecnológicas, siempre buscando aprender y mejorar en mi campo.
+
+Algunas de las cualidades que definen mi enfoque profesional son:
+
+📈 Dedicación: Siempre enfocado en cumplir mis metas y entregar resultados de calidad.
+📚 Aprendizaje continuo: Me esfuerzo por mejorar cada día y mantenerme actualizado con las mejores prácticas.
+🤝 Trabajo en equipo: Creo en la colaboración como clave para maximizar la efectividad y generar resultados más sólidos.
+💬 Empatía y comunicación: Valoro la importancia de entender las necesidades tanto de los usuarios como de mis compañeros para crear soluciones más eficientes.
+
 # Hi there, I'm Cristian Arevalo 👋
 
 Full Stack Web Developer
 -------------------
 
-![banner-git.png](./img/Amplio1.jpeg)
-
 I’m a systems engineer and fullstack developer with over 3 years of experience in software development.
 
 I am passionate about creating efficient and scalable solutions that make a real impact on users and businesses. Throughout my career, I have worked on projects covering both frontend and backend, using modern technologies to build robust, secure, and high-performance applications.
+
+I am motivated by complex challenges and staying up-to-date with the latest technological trends, always seeking to learn and improve in my field.
 
 ## Key Qualities
 
@@ -33,3 +46,4 @@ Feel free to reach out if you’d like to collaborate or if you have any questio
 - LinkedIn: [Your LinkedIn URL]
 - GitHub: [Your GitHub URL]
 - Email: [Your Email]
+
