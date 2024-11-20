@@ -6,7 +6,7 @@ Full Stack Web Developer
 Full Stack Web Developer
 -------------------
 
-[![banner-git.png](./img/BannerLinkedin.jpg)]
+[![banner-git.png](./img/BannerCorto.jpeg)]
 
 <!--
 **tian-dev1/tian-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
