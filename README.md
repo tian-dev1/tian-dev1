@@ -3,7 +3,7 @@
 Full Stack Web Developer
 -------------------
 
-![banner-git.png](./img/Amplio1.jpeg)
+![banner-git.png](./img/Captura.png)
 
 I’m a systems engineer and fullstack developer with over 3 years of experience in software development.
 
