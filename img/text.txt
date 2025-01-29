@@ -16,7 +16,7 @@ Algunas de las cualidades que definen mi enfoque profesional son:
 Full Stack Web Developer
 -------------------
 
-I’m a systems engineer and fullstack developer with over 3 years of experience in software development.
+I’m a systems engineer and fullstack developer with over 4 years of experience in software development.
 
 I am passionate about creating efficient and scalable solutions that make a real impact on users and businesses. Throughout my career, I have worked on projects covering both frontend and backend, using modern technologies to build robust, secure, and high-performance applications.
 
@@ -33,17 +33,9 @@ Here are some qualities that define my professional approach:
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript, React, Angular
-- Backend: Node.js, Express, Python, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Frontend: HTML, CSS, JavaScript, Angular
+- Backend: Node.js, C# .NET, Java
+- Databases: MongoDB, MySQL, SQL Server, Redis
 - Version Control: Git, GitHub
-- Tools: Docker, AWS, Firebase, Jenkins
-
-## Contact
-
-Feel free to reach out if you’d like to collaborate or if you have any questions!
-
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Email: [Your Email]
+- Tools: AWS, JSON, API REST
 
