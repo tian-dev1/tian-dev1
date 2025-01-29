@@ -20,16 +20,9 @@ Here are some qualities that define my professional approach:
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript, React, Angular
-- Backend: Node.js, Express, Python, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Frontend: HTML, CSS, JavaScript, Angular
+- Backend: Node.js, C# .NET, Java
+- Databases: MongoDB, MySQL, SQL Server, Redis
 - Version Control: Git, GitHub
-- Tools: Docker, AWS, Firebase, Jenkins
+- Tools: AWS, JSON, API REST
 
-## Contact
-
-Feel free to reach out if you’d like to collaborate or if you have any questions!
-
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
-- Email: [Your Email]
