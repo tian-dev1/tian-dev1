@@ -5,7 +5,7 @@ Full Stack Web Developer
 
 ![banner-git.png](./img/Captura.png)
 
-I’m a systems engineer and fullstack developer with over 3 years of experience in software development.
+I’m a systems engineer and fullstack developer with over 4 years of experience in software development.
 
 I am passionate about creating efficient and scalable solutions that make a real impact on users and businesses. Throughout my career, I have worked on projects covering both frontend and backend, using modern technologies to build robust, secure, and high-performance applications.
 
